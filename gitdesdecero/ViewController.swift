@@ -10,13 +10,9 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    let texto1 = "asdasd"
-    let dia1 = "dia 1"
-    let numerotal = 50
-    
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        // Do any additional setup after loading the view, typically from a nib.
     }
 
 
